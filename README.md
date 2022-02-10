@@ -1,6 +1,9 @@
 # GitHub Readme Widgets
-## All in one list of the cool GitHub widgets for your Readme page
-### *This file is using the markdown*
+
+![Repo Cover Image](/assets/cover.png)
+
+All in one list of the cool GitHub widgets for your Readme page.
+
 Contributions are always welcome. Please fell free to open a new Pull Request if you want to add a new widget/service to this list. 💙
 
 
